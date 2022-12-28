@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS73Tiers.Api", "SS73Tiers.Api\SS73Tiers.Api.csproj", "{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS73Tiers.Web", "SS73Tiers.Web\SS73Tiers.Web.csproj", "{47D77E5F-323F-47F8-B6C0-2145DA91B11A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D77E5F-323F-47F8-B6C0-2145DA91B11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D77E5F-323F-47F8-B6C0-2145DA91B11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D77E5F-323F-47F8-B6C0-2145DA91B11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D77E5F-323F-47F8-B6C0-2145DA91B11A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF914199-86BE-4A82-83F4-E09431C01A39}
+	EndGlobalSection
+EndGlobal

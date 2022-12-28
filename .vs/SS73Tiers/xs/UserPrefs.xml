@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{0A27DDD1-CEDC-456F-BA04-AE3745DCDF69}" ItemName="SS73Tiers.Api" ConfigurationId="https" />
+        <StartupItem ItemId="{47D77E5F-323F-47F8-B6C0-2145DA91B11A}" ItemName="SS73Tiers.Web" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SS73Tiers.Web/Views/Employee/Index.cshtml">
+    <Files>
+      <File FileName="SS73Tiers.Web/Views/Employee/Index.cshtml" Line="49" Column="27" />
+      <File FileName="SS73Tiers.Web/Views/Employee/Create.cshtml" />
+      <File FileName="SS73Tiers.Api/Controllers/EmployeeController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SS73Tiers" expanded="True">
+            <Node name="SS73Tiers.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="SS73Tiers.Web" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Employee" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SS73Tiers.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.SS73Tiers.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
